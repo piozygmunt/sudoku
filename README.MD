@@ -1,0 +1,1 @@
+Prosta implementacja gry logicznej Sudoku.
